@@ -24,6 +24,8 @@ Open http://localhost:3000 in your browser to view the application.
 
 ## Built With
 React - A JavaScript library for building user interfaces
+
 JavaScript - A programming language
+
 vite- A frontend build tooling
 
